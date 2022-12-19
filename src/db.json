@@ -1,0 +1,107 @@
+{
+    "sensor_data": [
+      {
+        "id": 1,
+        "device_name": "SGL-19-LED35-03",
+        "sensor_values": [
+          {
+            "label": "Leaf temperature",
+            "value": "50.54",
+            "unit": "\u00b0F"
+          },
+          {
+            "label": "Windspeed",
+            "value": "1.9",
+            "unit": "m/s"
+          },
+          {
+            "label": "PPFD calculated",
+            "value": "429.5",
+            "unit": "\u00B5mol/m\u00B2/s"
+          },
+          {
+            "label": "PPFD above the LED",
+            "value": "59.5",
+            "unit": "\u00B5mol/m\u00B2/s"
+          },
+          {
+            "label": "Air temperature under LED35",
+            "value": "41.54",
+            "unit": "\u00b0F"
+          },
+          {
+            "label": "temperature outside",
+            "value": "40.1",
+            "unit": "\u00b0F"
+          },
+          {
+            "label": "RH under LED35",
+            "value": "97.8",
+            "unit": "%"
+          },
+          {
+            "label": "RH outside LED",
+            "value": "94.6",
+            "unit": "%"
+          },
+          {
+            "label": "Heating",
+            "value": "100",
+            "unit": "%"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "device_name": "SGL-19-LED35-08",
+        "sensor_values": [
+          {
+            "label": "Leaf temperature",
+            "value": "51.62",
+            "unit": "\u00b0F"
+          },
+          {
+            "label": "Windspeed",
+            "value": "1.2",
+            "unit": "m/s"
+          },
+          {
+            "label": "PPFD calculated",
+            "value": "432.9",
+            "unit": "\u00B5mol/m\u00B2/s"
+          },
+          {
+            "label": "PPFD above the LED",
+            "value": "62.9",
+            "unit": "\u00B5mol/m\u00B2/s"
+          },
+          {
+            "label": "Air temperature under LED35",
+            "value": "41.54",
+            "unit": "\u00b0F"
+          },
+          {
+            "label": "temperature outside",
+            "value": "39.74",
+            "unit": "\u00b0F"
+          },
+          {
+            "label": "RH under LED35",
+            "value": "96.6",
+            "unit": "%"
+          },
+          {
+            "label": "RH outside LED",
+            "value": "99.9",
+            "unit": "%"
+          },
+          {
+            "label": "Heating",
+            "value": "100",
+            "unit": "%"
+          }
+        ]
+      }
+    ]
+  }
+  
