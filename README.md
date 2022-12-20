@@ -1,6 +1,8 @@
 Sensor Dashboard
 
-Json Server:
+App can be lauched @ http://localhost:3000/
+
+Json Server: Mock Json object
 json-server --watch src/db.json --port=5000
 
 Note:
